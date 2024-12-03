@@ -5,9 +5,9 @@
 ## 프로젝트 구성
 (0) module import\
 (1) ER 네트워크에서의 보터 모델\
-(2) ER 네트워크의 이웃수분포 + 포아송
-(3) ER 네트워크의 mean geodesic distance
-(4) ER 네트워크에서 p에 따른 giant component
+(2) ER 네트워크의 이웃수분포 + 포아송\
+(3) ER 네트워크의 mean geodesic distance\
+(4) ER 네트워크에서 p에 따른 giant component\
 
 ## 주요 기능
 - **네트워크 생성 및 분석**: `networkx`를 활용하여 네트워크를 모델링하고 다양한 분석 수행.
