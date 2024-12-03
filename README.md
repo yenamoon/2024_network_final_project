@@ -31,8 +31,4 @@ pip install numpy networkx matplotlib random math
 ```bash
 git clone https://github.com/yenamoon/2024_network_final_project.git
 ```
-2. Jupyter Notebook 실행
-```bash
-jupyter notebook 202210642_문예나_network_final_project.ipynb
-```
-
+2. 클론이 되었다면 왼쪽 파일 목록을 확인
