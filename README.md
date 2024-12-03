@@ -3,7 +3,7 @@
 이 프로젝트는 Python을 활용하여 ER 네트워크와 voter 모델에 대한 분석 및 시뮬레이션에 대한 내용이다. `networkx`, `matplotlib` 등 주요 라이브러리를 사용하여 네트워크의 생성, 분석, 시각화를 수행하며, 애니메이션 기능을 통해 네트워크의 동적 변화를 표현한다.
 
 ## 프로젝트 구성
-(0) module import
+(0) module import\\
 (1) ER 네트워크에서의 보터 모델
 (2) ER 네트워크의 이웃수분포 + 포아송
 (3) ER 네트워크의 mean geodesic distance
